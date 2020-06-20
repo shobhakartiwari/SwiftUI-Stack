@@ -1,5 +1,5 @@
 # SwiftUI-Stack
-This project is all about the VStack and HStack using Swift-UI
+Swift UI is the future of iOS App developement so this project shows how following things works :-
 
 1. Label
 2. VStack
