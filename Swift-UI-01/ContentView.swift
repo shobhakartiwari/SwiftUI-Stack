@@ -15,31 +15,58 @@ struct ContentView: View {
             Spacer()
             HStack{
                 Spacer()
+                //Use of Modifier
                 Text("Swift-UI")
+                    .fontWeight(.heavy)
+                    .foregroundColor(.pink)
                 Spacer()
+                //Use of Modifier
                 Text("Swift-UI")
+                .fontWeight(.heavy)
+                .foregroundColor(.pink)
                 Spacer()
+                //Use of Modifier
                 Text("Swift-UI")
+                .fontWeight(.heavy)
+                .foregroundColor(.pink)
                 Spacer()
             }
             Spacer()
             HStack{
                        Spacer()
+                       //Use of Modifier
                        Text("Swift-UI")
+                       .fontWeight(.heavy)
+                       .foregroundColor(.pink)
                        Spacer()
+                      //Use of Modifier
                        Text("Swift-UI")
+                       .fontWeight(.heavy)
+                       .foregroundColor(.pink)
                        Spacer()
+                       //Use of Modifier
                        Text("Swift-UI")
+                       .fontWeight(.heavy)
+                       .foregroundColor(.pink)
                        Spacer()
                    }
             Spacer()
             HStack{
                 Spacer()
+                //Use of Modifier
                 Text("Swift-UI")
+                .fontWeight(.heavy)
+                .foregroundColor(.pink)
                 Spacer()
+                //Use of Modifier
                 Text("Swift-UI")
+                .fontWeight(.heavy)
+                .foregroundColor(.pink)
                 Spacer()
+                //Use of Modifier
                 Text("Swift-UI")
+                .fontWeight(.heavy)
+                .foregroundColor(.pink)
                 Spacer()
             }
             Spacer()
